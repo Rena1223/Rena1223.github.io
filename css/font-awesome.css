@@ -326,7 +326,7 @@
   content: "\f031";
 }
 .fa-bold:before {
-  content: "\f032";
+  content: "";
 }
 .fa-italic:before {
   content: "\f033";
